@@ -36,13 +36,6 @@
   /images/main-scapy.jpg" width="500" hight="500"/>
 </p>
 
-## Contributing
-This is a very small project that arose out of a quick need. So I keep it as simple as possible. If you are motivated to improve it, you can simply fork the project and make a pull request with your changes. 
 
-## Show your support
-
-Give a ⭐️ if you found this project interested and helped you!
-
-<a href="https://www.buymeacoffee.com/aboelkassem" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 
